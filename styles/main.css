@@ -1,0 +1,20 @@
+.bg_red {
+  background-color: red;
+}
+main {
+  padding: 15px;
+}
+header {
+  background-color: brown;
+  padding: 15px;
+  color: bisque;
+}
+.title {
+  color: blue;
+}
+
+footer {
+  background-color: darkgray;
+
+  padding: 15px;
+}
